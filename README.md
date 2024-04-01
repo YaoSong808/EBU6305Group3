@@ -1,6 +1,7 @@
 # EBU6305Group3
 ## Group Number: 2024EBU6305Group3  
 
+## Project Title : CinemaScope: Behind the Screen 
 
 ## Members:
 Yao Song,2021212814,210978911,yao.song@se21.qmul.ac.uk  

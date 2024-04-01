@@ -31,4 +31,41 @@ Build a community of movie lovers, allowing users to upload their reviews, discu
 - ** Visual & Audio effects ** : Take advantage of high quality image, video, and audio content to provide an immersive experience for your users.
 - ** Ease of use and accessibility ** : Designing clear navigation ensures that the website is easy for all users to access and use.
 
-By combining the above ideas and technical advice, your project can not only meet the requirements of the course, but also provide unique and engaging content for your target audience.
+Here are some content about the design
+
+Design Scheme:
+
+Webpage Title: "Inception" Movie Special Feature
+
+Header Section:
+
+Design a theme color gradient with a deep black background intermingled with shades of grey, symbolizing the complex layers of dreams within the film. Place the large title "Inception" in the center of the top section, using bold white font against a backdrop of the original movie poster, which is made semi-transparent to ensure clear readability.
+Navigation Bar:
+
+A modern navigation bar is set at the top of the webpage, featuring menu options such as "Home", "Plot Introduction", "Character Analysis", "Memorable Scenes", "Behind-the-Scenes Stories", "Review Zone", and "Watch Links" to facilitate quick navigation for users to desired content.
+Homepage Layout:
+
+The homepage displays a carousel of high-resolution stills from the movie, each with a brief summary beneath, which upon click leads to detailed content.
+Below the carousel, there is a movie info module containing essential details like director, lead actors, release date, runtime, and rating.
+Main Content Areas:
+
+The "Plot Synopsis" part provides a visually engaging and detailed introduction to the movie plot, featuring embedded links to video clips of significant moments.
+The "Character Analysis" section delves into the depth of main characters, complete with actor photographs and insightful character quotes.
+The "Memorable Scenes" area showcases and elaborates on pivotal scenes from the film, with options to view clips.
+The "Behind-the-Scenes Stories" segment uncovers fascinating anecdotes and production insights, enriching viewers' appreciation and understanding of the film.
+Interactive Design:
+
+Social media sharing buttons are placed at the bottom of the page, enabling users to share favorite content on platforms like Weibo, WeChat, etc.
+Each subpage includes a 'Back to Top' button for convenient navigation after scrolling through extensive articles.
+Commenting functionality is enabled, allowing users to post reviews and engage in discussion within the "Review Zone".
+Color Scheme:
+
+The overall palette utilizes the primary colors from the film (such as muted golds for the dream layers), complemented by deep blacks and greys, maintaining a visually consistent and stylish theme throughout the page.
+Responsive Design:
+
+The website should be responsive and display well across various devices (e.g., smartphones, tablets, desktop computers), ensuring a good user experience.
+Watch Links:
+
+Provide legal and official online viewing or purchase links, making it easy for users to directly watch or buy "Inception".
+Through this design, we aim to create a webpage that not only prominently features the theme but also employs vivid colors, presents information clearly, and fosters an engaging interactive environment. This will offer a comprehensive and immersive experience for users to explore and appreciate "Inception".
+

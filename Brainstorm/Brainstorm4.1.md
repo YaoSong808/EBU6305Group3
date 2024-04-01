@@ -1,3 +1,5 @@
+Here is a transcript of the brainstorming process of our group
+
 Goal of the project: Popularize film knowledge to people
 
 Target Users: General public
